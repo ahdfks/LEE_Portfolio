@@ -1,4 +1,5 @@
 # Healthcare Market in the Greater China Region: 
+
 ## Project Overview (https://github.com/ahdfks/project_HC_Asia)
 * Created a dashboard to understand the healthcare market in mainland China, Hongkong, Taiwan and South Korea
 * Data collection: scraped over 1000 companies from LinkedIn using linked helper scraper
@@ -23,7 +24,7 @@ With each company profile, we got the following:
 *	HQ country: China, Taiwan, South Korea
 *	HQ city level
 *	HQ province level
-*	Specialities: immuno-oncology, CNS, probiotics, cardiovascular, diabetes, orthopedics etc
+*	Specialities: immuno-oncology, CNS, probiotics, cardiovascular, diabetes, orthopedics etc.
 *	Profile url
 *	Website
 *	Phone
