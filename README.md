@@ -13,7 +13,7 @@
 **Tableau:** 2020.4
 
 ## LinkedIn company profile scraping
-Scraped 1500 companies in pharmaceuticals, biotechnology, and medical device industry in the Greater China Region.\
+Scraped 1500+ companies in pharmaceuticals, biotechnology, and medical device industry in the Greater China Region.\
 With each company profile, we got the following:
 *	Company ID
 *	Company name
