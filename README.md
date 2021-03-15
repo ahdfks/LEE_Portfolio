@@ -1,6 +1,6 @@
 # Healthcare Market in the Greater China Region: 
 
-## Project Overview (https://github.com/ahdfks/project_HC_Asia)
+## Project Overview https://github.com/ahdfks/project_HC_Asia
 * Created a dashboard to understand the healthcare market in mainland China, Hongkong, Taiwan and South Korea
 * Data collection: scraped over 1500 companies from LinkedIn using linked helper scraper
 * Data cleaning: cleaned raw data and derived a file to prioritize companies covering target therapeutic areas
