@@ -73,10 +73,11 @@ This analysis will help executives to make decisions about digital marketing pro
 
 * Created separate histograms to see the peak hours in each day of week:
 ![4 weekly peak hour](https://user-images.githubusercontent.com/79106560/138890264-1555eb81-2cff-4ba1-a5e6-5922c60bf1e0.png)
-   * Finding: **peak hour during weekend = whole daytime(10:00 ~ 18:00)** for both casual and members\
-              **peak hour during weekdays = off work time(16:00 ~ 19:00)** for members\
-              **casual customers are less likely to ride a bike during weekdays than members.**
-   * So in order to convert casual riders to members, we need to figure out **how many "commuter" and "non-commuter" riders who don't have membership yet**. To capture those riders, we also need to know the top stations with **high riding frequency among casual riders.**
+   * Finding: 
+      * peak hour during weekend = whole daytime(10:00 ~ 18:00)** for both casual and members\
+      * peak hour during weekdays = off work time(16:00 ~ 19:00)** for members\
+      * **casual customers are less likely to ride a bike during weekdays than members.**
+   * So in order to convert casual riders to members, we need to figure out **how many "commuter" and "non-commuter" riders who don't have membership yet**. To capture those riders, we also need to know the top stations with high riding frequency among casual riders.
 
 * Created rider types distribution at top 20 stations:
 ![5 rider type](https://user-images.githubusercontent.com/79106560/138890925-abebd8e2-1641-4d52-b3e0-f3b9896f2691.png)
